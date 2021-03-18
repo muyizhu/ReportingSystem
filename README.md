@@ -3,7 +3,7 @@
 ## What can the System do:
 ### 1. storing your reports that was wrote in either json or xml from.
 ### 2. download your reports in excel or pdf form.
-### 3. delete and modify your reports.
+### 3. deleting and modifing your reports.
 
 ## What did I do:
 ### 0. set up environment as well as email sending functionality
