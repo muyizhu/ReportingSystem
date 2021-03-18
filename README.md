@@ -4,8 +4,9 @@
 ### 1. storing your reports that was wrote in either json or xml from.
 ### 2. download your reports in excel or pdf form.
 ### 3. deleting and modifing your reports.
+### 4. sending your notification email after downloading.
 
-## What did I do:
+## Recently partially finished features:
 ### 0. set up environment as well as email sending functionality
 ### 1. Add new features like update/delete/edit report.
 		1. added delete API:
