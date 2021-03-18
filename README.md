@@ -1,4 +1,4 @@
-# Antra SEP java evaluation project
+# Reporting System
 
 ## What did I do:
 ### 0. set up environment as well as email sending functionality
