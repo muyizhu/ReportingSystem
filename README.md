@@ -1,10 +1,10 @@
 # Reporting System
 
-## What can the System do:
-### 1. storing your reports that was wrote in either json or xml from.
-### 2. download your reports in excel or pdf form.
-### 3. deleting and modifing your reports.
-### 4. sending your notification email after downloading.
+## Functinalities of the system:
+#### 1. storing your reports that was wrote in either json or xml from.
+#### 2. download your reports in excel or pdf form.
+#### 3. deleting and modifing your reports.
+#### 4. sending your notification email after downloading.
 
 ## Recently partially finished features:
 ### 0. set up environment as well as email sending functionality
